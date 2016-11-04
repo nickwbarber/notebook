@@ -1,0 +1,3 @@
+"Literal and Metaphorical Senses in Compositional Distributional Semantic Models"
+
+"Metaphor Detection with Topic Transition, Emotion and Cognition in Context"

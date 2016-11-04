@@ -1,0 +1,6 @@
+_HIL_
+*things to talk about*:
+	* How must HILs be '_conversationally useful_'?
+		- How should we expect _dislikes_ to be 'conversationally useful'?
+			* 'That's the idiocy they use to run this place.'
+			* difference between '*bad management*' and '*bad living situation*'? Is one more conversationally useful than the other?

@@ -1,0 +1,48 @@
+= HiLT =
+* [ ] contact applied statistics professor in math department to request advice on calculating continuous agreement scores
+* [ ] interval kappas
+* [ ] faux f-measure
+* [ ] instance kappas
+* [ ] publish most current results in a consolidated Google Sheet
+	* [ ] importance
+	* [ ] emotion
+	* [ ] afkald
+	* [ ] pes
+	* [ ] pm
+	* [ ] pa
+	* [ ] res
+	* [ ] ref
+
+== Emotion Detection ==
+* [ ] adjudicate 11-12
+* [ ] adjudicate NA_12-31
+* [ ] annotate NA_01-03
+* [ ] publish scores
+
+== Importance ==
+* [ ] autofill baseline fields
+* [ ] auto-calculate IRR coefficients
+	- [ ] verify math against (against Christine's kappa sheets)
+* [ ] publish scores
+
+== HILD ==
+* [ ] adjudicate Round 19
+	- When are we going to meet for that?
+
+== PES ==
+* [ ] adjudicate 5-1-1 (once submitted)
+
+
+= Home =
+
+
+= School =
+* [X] submit for IRB approval (minimal form)
+	- [X] prepare handouts 
+* [ ] get a game plan going for the survey data
+	- [ ] plan the stats analysis
+	- [ ] adapt a class from the gate.py
+
+
+= Studies =
+* [ ] get git set up for wiki
