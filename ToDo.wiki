@@ -1,9 +1,8 @@
 = HiLT =
-* [ ] contact applied statistics professor in math department to request advice on calculating continuous agreement scores
-* [ ] interval kappas
-* [ ] faux f-measure
-* [ ] instance kappas
-* [ ] publish most current results in a consolidated Google Sheet
+* [ ] contact applied *statistics professor* in math department to request advice on calculating continuous agreement scores
+    - Ernest has information about a linguistics professor who specializes in statistics. Ask him.
+
+* [ ] *publish* most current results in a consolidated Google Sheet
 	* [ ] importance
 	* [ ] emotion
 	* [ ] afkald
@@ -14,24 +13,40 @@
 	* [ ] ref
 
 == Emotion Detection ==
-* [ ] adjudicate 11-12
-* [ ] adjudicate NA_12-31
-* [ ] annotate NA_01-03
-* [ ] publish scores
+    * [ ] integrate new *kappa calculations*
+        * [ ] interval kappas
+            - i.e. every 20 seconds (or whatever the automatic break-point is)
+        * [ ] faux f-measure
+            - i.e. for ann, (union of ann)/(intersection of ann)
+        * [ ] instance kappas
+            - use [[algorithmic instance breaking]]
+
+    * [X] adjudicate 11-12
+    * [ ] adjudicate NA_12-31
+    * [ ] annotate NA_01-03
+    
+    * [ ] *publish scores*
 
 == Importance ==
-* [ ] autofill baseline fields
-* [ ] auto-calculate IRR coefficients
-	- [ ] verify math against (against Christine's kappa sheets)
-* [ ] publish scores
+    * [ ] catch up to Ernest on annotations
+        - [ ] NA 12-30
+        - [ ] NA 12-31
+    * [ ] autofill baseline fields
+    * [X] auto-calculate IRR coefficients
+        - [X] verify math against (against Christine's kappa sheets)
+    * [ ] write guidelines
+    
+    * [ ] *publish scores*
 
 == HILD ==
-* [ ] adjudicate Round 19
-	- When are we going to meet for that?
+    * [ ] finish adjudicating Round 19
+        - we still have about 1/2 of the proposed likes left
 
 == PES ==
-* [ ] adjudicate 5-1-1 (once submitted)
+    * [ ] adjudicate 5-1-1 (once submitted)
 
+== Resistance ==
+    * [ ] finish revising the guidelines
 
 = Home =
 
@@ -39,10 +54,12 @@
 = School =
 * [X] submit for IRB approval (minimal form)
 	- [X] prepare handouts 
+* [ ] write rough draft
+    - use overleaf (latex)
 * [ ] get a game plan going for the survey data
 	- [ ] plan the stats analysis
 	- [ ] adapt a class from the gate.py
 
 
-= Studies =
-* [ ] get git set up for wiki
+= pers =
+* [X] get git set up for wiki
