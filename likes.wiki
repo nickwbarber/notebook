@@ -4,3 +4,7 @@ _HIL_
 		- How should we expect _dislikes_ to be 'conversationally useful'?
 			* 'That's the idiocy they use to run this place.'
 			* difference between '*bad management*' and '*bad living situation*'? Is one more conversationally useful than the other?
+			* potential addition: "if a dislike which falls into a category for which a companion might likely make some suggestion, remember that dislike, because it is conversationally *useful to know what not to suggest*"
+		* make sure to highlight in the guidelines that they need to be *conversationally generative*, not just useful -- i.e. we need to be able to rely on it to start conversations during lulls
+	* coreferring with PAA
+	* "they just swear that the food is delicious, but they don't eat it". Do we rely on what the ladies say they like, or the discrepancy in what we assume to be the entailments of liking a dish?
