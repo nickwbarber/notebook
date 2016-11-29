@@ -1,20 +1,28 @@
 = HiLT =
 * [ ] contact applied *statistics professor* in math department to request advice on calculating continuous agreement scores
     - Ernest has information about a linguistics professor who specializes in statistics. Ask him.
+    - tried through my Gmail account, no response after a week; now tried with UNT account
+    - meeting scheduled: Tuesday, November 29th, 16:00 @ DP, G178C (his office)
+* [.] format programs to PEP 8
+    - [ ] the rest
+    - [o] HILT-annotations
+        * [X] importance-kappa
+        * [X] _emotion-kappa_
+        * [ ] gate.py
 
 * [ ] *publish* most current results in a consolidated Google Sheet
-	* [ ] importance
-	* [ ] emotion
-	* [ ] afkald
-	* [ ] pes
-	* [ ] pm
-	* [ ] pa
-	* [ ] res
-	* [ ] ref
+    * [ ] importance
+    * [ ] emotion
+    * [ ] afkald
+    * [ ] pes
+    * [ ] pm
+    * [ ] pa
+    * [ ] res
+    * [ ] ref
 
 == Emotion Detection ==
     * [ ] integrate new *kappa calculations*
-        * [ ] interval kappas
+        * [ ] _interval kappas_
             - i.e. every 20 seconds (or whatever the automatic break-point is)
         * [ ] faux f-measure
             - i.e. for ann, (union of ann)/(intersection of ann)
@@ -24,7 +32,6 @@
     * [X] adjudicate 11-12
     * [ ] adjudicate NA_12-31
     * [ ] annotate NA_01-03
-    
     * [ ] *publish scores*
 
 == Importance ==
@@ -35,7 +42,6 @@
     * [X] auto-calculate IRR coefficients
         - [X] verify math against (against Christine's kappa sheets)
     * [ ] write guidelines
-    
     * [ ] *publish scores*
 
 == HILD ==
@@ -53,13 +59,16 @@
 
 = School =
 * [X] submit for IRB approval (minimal form)
-	- [X] prepare handouts 
+    - [X] prepare handouts
 * [ ] write rough draft
     - use overleaf (latex)
 * [ ] get a game plan going for the survey data
-	- [ ] plan the stats analysis
-	- [ ] adapt a class from the gate.py
+    - [ ] plan the stats analysis
+    - [ ] adapt a class from the gate.py
+* [ ] find source on that Bryden quote
+    - book @ UTD McDermott 
 
+* [ ] 
 
 = pers =
 * [X] get git set up for wiki

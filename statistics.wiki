@@ -1,4 +1,10 @@
-*dependent* variable = 3{% *both* correct , % *left* correct , % *right* correct}, for x in set: x[#](interval)
-*independent* variables = 4{ *bilingual?*[y,n](categorical) , *#languages*[1:5+](ordinal) , *gender*[male,female,other](categorical) , *age*[-ranges-](ordinal) }
+*dependent* variable = {%correct} {% *both* correct , % *left* correct , % *right* correct}, for x in set: x[#](interval)
+*independent* variables = { ear, *bilingual?*[y,n](categorical) , *#languages*[1:5+](ordinal) , *gender*[male,female,other](categorical) , *age*[-ranges-](ordinal) }
 
-possible statistics: { multiple t-tests , chi-square , multiple univariate ANOVAs , one multivariate ANOVA }
+statistics: { multiple univariate ANOVAs , one multivariate ANOVA }
+	a. multiple univariate anovas
+		1. d = %both, i = bilingual?
+		2. d = %left, i = bilingual?
+		3. d = %right, i = bilingual?
+	b. multiple multivariate anovas
+	
