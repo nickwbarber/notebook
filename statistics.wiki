@@ -8,3 +8,4 @@ statistics: { multiple univariate ANOVAs , one multivariate ANOVA }
 		3. d = %right, i = bilingual?
 	b. multiple multivariate anovas
 	
+Xian Zhang confirmed that a multivariate ANOVA per condition (i.e. left correct, right correct, and both left and right correct) should be appropriate. Though discrete runs will compound the chance of error, disregard this at such a low number of tests. 
